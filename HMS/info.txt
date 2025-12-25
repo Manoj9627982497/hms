@@ -7,3 +7,5 @@ Node.js + Express → Backend API
 Vercel → Hosting & deployment (free, fast, client-friendly)
 
 Vercel does NOT support long-running Express servers, so we use Express as a serverless API (best practice).
+
+Code-123:- I am creating home in nextjs.Manoj
